@@ -89,23 +89,35 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. All chiral substances exhibit _____ but some exhibits ________. ", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
-            },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+                a: "CD, ORD", ///// Write the option 1 inside double quotes
+                b: "ORD, CD", ///// Write the option 2 inside double quotes
+		c: "ORD ,ORD", ///// Write the option 1 inside double quotes
+                d: "CD ,CD", ///// Write the option 2 inside double quotes
+	    },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+            question: "2. ORD is an ________ phenomena where as CD is an __________ phenomena. ", ///// Write the question inside double quotes
+            answers: {
+                a: "Absorptive, Dispersive", ///// Write the option 1 inside double quotes
+                b: "Natural, super-natural", ///// Write the option 2 inside double quotes
+		c: "Dispersive, Absorptive", ///// Write the option 1 inside double quotes
+                d: "Classical, Relativistic", ///// Write the option 2 inside double quotes
+	    },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },
 
+            question: "3. To study structure of macro molecules like protein in most of the cases _____ is preferred over ______.  ", ///// Write the question inside double quotes
+            answers: {
+                a: "CD, ORD", ///// Write the option 1 inside double quotes
+                b: "ORD, CD", ///// Write the option 2 inside double quotes
+		c: "IR ,CD", ///// Write the option 1 inside double quotes
+                d: "UV , ORD", ///// Write the option 2 inside double quotes
+	    },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+         },
 
 
      ];

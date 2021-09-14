@@ -1,0 +1,22 @@
+[
+{"question":"1. All chiral substances exhibit _____ but some exhibits ________.",
+"answer":
+        {
+         "a":"CD, ORD",
+         "":"ORD, CD", 
+         "":"ORD ,ORD",
+         "":"CD ,CD" 
+        },
+"correctanswer":"b"},
+
+{"question":"2. ORD is an ________ phenomena where as CD is an __________ phenomena.",
+"answer":
+        {
+	 "a":"Absorptive, Dispersive",
+         "b":"Natural, super-natural",
+         "c":"Dispersive, Absorptive",
+         "d":"Classical, Relativistic"
+        },    
+"correctanswer":"c"}  
+}
+]

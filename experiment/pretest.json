@@ -3,9 +3,9 @@
 "answer":
         {
          "a":"CD, ORD",
-         "":"ORD, CD", 
-         "":"ORD ,ORD",
-         "":"CD ,CD" 
+         "b":"ORD, CD", 
+         "c":"ORD ,ORD",
+         "d":"CD ,CD" 
         },
 "correctanswer":"b"},
 
@@ -18,5 +18,5 @@
          "d":"Classical, Relativistic"
         },    
 "correctanswer":"c"}  
-}
+
 ]

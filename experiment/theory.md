@@ -27,7 +27,7 @@ where
 E<sub>R</sub> and E<sub>L</sub> are the magnitudes of the electric field vectors of the right-circularly and left-circularly polarized light, respectively.  
 
  This ellipticity will depend on the path length and concentration of medium. So we can think of specific ellipticity, ellipticity per unit length per unit concentration.We can think of an intrinsic property in terms of this ellipticity, molar ellipticity ([θ]), which is simply the product of molecular weight of the molecule and specific ellipticity.
-[θ] = M x specific ellipticity x 10-2
+[θ] = M x specific ellipticity x 10<sup>-2</sup>
 
 Now the Molar circular dichroism, Δε, and molar ellipticity, [θ], are readily interconvertable by the equation:
 [θ] = 3298.2 ε

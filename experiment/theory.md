@@ -3,8 +3,8 @@ Circular dichroism leads to the transformation of plane polarized light into ell
 **CD spectroscopy - Concepts, measurable parameters and quantitative relationships**  
 
 As we have discussed CD is the direct consequence of differential absorbance. So studying variation of differential absorbance with variation in wavelength is a good approach. We define delta absorbance, a parameter to study CD, as
-&#163;GA=A<sub>L</sub>-A<sub>R</sub>  
-where A<sub>L</sub> and A<sub>R</sub> represents the absorbance of LCP light and RCP light respectively.  
+ΔA=A<sub>L</sub>-A<sub>R</sub>
+where A<sub>L</sub> and AR represents the absorbance of LCP light and RCP light respectively.  
 
 Though the the difference in absorption to be measured is very small (usually a few 1/100ths to a few 1/10th of a percent), but it can be determined quite accurately.  
 

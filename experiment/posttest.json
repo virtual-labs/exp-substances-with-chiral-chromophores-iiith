@@ -1,0 +1,11 @@
+[
+{"question":"1. To study structure of macro molecules like protein in most of the cases _____ is preferred over ______." ,
+"answers":
+        {
+         "a":"CD, ORD",
+         "b":"ORD, CD", 
+         "c":"IR ,CD",
+         "d":"UV , ORD" 
+        },
+"correctanswers":"a"}
+]

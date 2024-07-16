@@ -7,7 +7,7 @@
          "c":"ORD ,ORD",
          "d":"CD ,CD" 
         },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"2. ORD is an ________ phenomena where as CD is an __________ phenomena.",
 "answers":
@@ -17,6 +17,6 @@
          "c":"Dispersive, Absorptive",
          "d":"Classical, Relativistic"
         },    
-"correctanswers":"c"}  
+"correctAnswer":"c"}  
 
 ]
